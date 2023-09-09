@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background-color{
+    background-color: brown;
+    margin: 50px 20px 50px 10px;
+    padding: 30px 20px 30px 20px;
+}
